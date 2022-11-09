@@ -16,6 +16,23 @@
           "text": "i like it"
         }
       ]
+    },
+    {
+      "id": 2,
+      "text": "hello 2",
+      "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg",
+      "likesCount": 2,
+      "commentsCount": 15,
+      "comments": [
+        {
+          "id": 1,
+          "text": "i like it 2"
+        },
+        {
+          "id": 2,
+          "text": "i like it 2"
+        }
+      ]
     }
   ]
 }
