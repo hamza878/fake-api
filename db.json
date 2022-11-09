@@ -1,0 +1,21 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "text": "hello",
+      "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg",
+      "likesCount": 5,
+      "commentsCount": 10,
+      "comments": [
+        {
+          "id": 1,
+          "text": "i like it"
+        },
+        {
+          "id": 2,
+          "text": "i like it"
+        }
+      ]
+    }
+  ],
+}
